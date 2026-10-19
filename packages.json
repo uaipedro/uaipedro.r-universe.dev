@@ -62,10 +62,5 @@
     "package": "trama.github",
     "url": "https://github.com/uaipedro/trama",
     "subdir": "apoio/trama.github"
-  },  
-  {
-    "package": "trama.github",
-    "url": "https://github.com/uaipedro/trama",
-    "subdir": "apoio/trama.github"
   }
 ]
